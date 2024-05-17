@@ -1,2 +1,1 @@
-declare function sum(a: number, b: number): number;
-export { sum };
+export * as vars from "./variables";
