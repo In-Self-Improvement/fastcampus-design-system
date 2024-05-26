@@ -1,0 +1,16 @@
+{
+  "name": "fastcampus-design-system",
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/**/*",
+    "services/**/*"
+  ],
+  "scripts": {
+    "build": "nx build",
+    "graph": "nx run-many --target=build --graph"
+  },
+  "packageManager": "yarn@4.2.2",
+  "devDependencies": {
+    "nx": "^19.1.0"
+  }
+}
