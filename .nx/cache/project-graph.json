@@ -79,67 +79,6 @@
         "implicitDependencies": [],
         "tags": []
       }
-    },
-    "test": {
-      "name": "test",
-      "type": "app",
-      "data": {
-        "root": "services/test",
-        "targets": {
-          "build": {
-            "executor": "nx:run-script",
-            "metadata": {
-              "scriptContent": "react-scripts build",
-              "runCommand": "yarn build"
-            },
-            "dependsOn": [
-              "^build"
-            ],
-            "options": {
-              "script": "build"
-            },
-            "configurations": {}
-          },
-          "start": {
-            "executor": "nx:run-script",
-            "options": {
-              "script": "start"
-            },
-            "metadata": {
-              "scriptContent": "react-scripts start",
-              "runCommand": "yarn start"
-            },
-            "configurations": {}
-          },
-          "test": {
-            "executor": "nx:run-script",
-            "options": {
-              "script": "test"
-            },
-            "metadata": {
-              "scriptContent": "react-scripts test",
-              "runCommand": "yarn test"
-            },
-            "configurations": {}
-          },
-          "eject": {
-            "executor": "nx:run-script",
-            "options": {
-              "script": "eject"
-            },
-            "metadata": {
-              "scriptContent": "react-scripts eject",
-              "runCommand": "yarn eject"
-            },
-            "configurations": {}
-          }
-        },
-        "sourceRoot": "services/test",
-        "name": "test",
-        "projectType": "application",
-        "implicitDependencies": [],
-        "tags": []
-      }
     }
   },
   "externalNodes": {
@@ -12890,13 +12829,6 @@
   },
   "dependencies": {
     "@fastcampus/themes": [],
-    "test": [
-      {
-        "source": "test",
-        "target": "@fastcampus/themes",
-        "type": "static"
-      }
-    ],
     "npm:@ampproject/remapping@2.3.0": [
       {
         "source": "npm:@ampproject/remapping@2.3.0",

@@ -87,3 +87,141 @@
 [NX Daemon Server] - 2024-05-26T04:08:47.998Z - [WATCHER]: Stopping the watcher for /Users/bong/github/fastcampus-design-system (sources)
 [NX Daemon Server] - 2024-05-26T04:08:47.998Z - [WATCHER]: Stopping the watcher for /Users/bong/github/fastcampus-design-system (outputs)
 [NX Daemon Server] - 2024-05-26T04:08:47.998Z - Server stopped because: "10800000ms of inactivity"
+[NX Daemon Server] - 2024-06-01T15:10:04.913Z - Started listening on: /var/folders/w4/2314j8ws7y97vc11d4rp_ytc0000gn/T/f9a39cc2772ae74df6aa/d.sock
+[NX Daemon Server] - 2024-06-01T15:10:04.915Z - [WATCHER]: Subscribed to changes within: /Users/bong/github/fastcampus-design-system (native)
+[NX Daemon Server] - 2024-06-01T15:10:04.922Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:10:04.922Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-01T15:10:04.923Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:10:04.924Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:10:04.937Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:10:04.937Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:10:04.937Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:10:05.500Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.502Z - Time taken for 'total for creating and serializing project graph' 576.3376250267029ms
+[NX Daemon Server] - 2024-06-01T15:10:05.503Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.503Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 576. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:10:05.507Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:10:05.508Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.510Z - Time taken for 'total for creating and serializing project graph' 1.7187910079956055ms
+[NX Daemon Server] - 2024-06-01T15:10:05.511Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.511Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:10:05.515Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:10:05.516Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.518Z - Time taken for 'total for creating and serializing project graph' 1.5093328952789307ms
+[NX Daemon Server] - 2024-06-01T15:10:05.519Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.519Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:10:05.521Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-01T15:10:05.522Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:10:05.523Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.525Z - Time taken for 'total for creating and serializing project graph' 1.5470829010009766ms
+[NX Daemon Server] - 2024-06-01T15:10:05.527Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.527Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 4.
+[NX Daemon Server] - 2024-06-01T15:10:05.882Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:10:05.884Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.886Z - Time taken for 'total for creating and serializing project graph' 1.738832950592041ms
+[NX Daemon Server] - 2024-06-01T15:10:05.887Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:10:05.887Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:10:50.684Z - [WATCHER]: tsconfig.base.json was created or restored
+[NX Daemon Server] - 2024-06-01T15:10:50.684Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:10:50.787Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:10:50.787Z - [REQUEST]: tsconfig.base.json
+[NX Daemon Server] - 2024-06-01T15:10:50.787Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:10:50.819Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-06-01T15:10:50.819Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-06-01T15:10:50.819Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-06-01T15:10:50.820Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.074666976928711ms
+[NX Daemon Server] - 2024-06-01T15:10:51.331Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:10:51.333Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:10:51.336Z - Time taken for 'total for creating and serializing project graph' 2.5489580631256104ms
+[NX Daemon Server] - 2024-06-01T15:10:51.338Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:10:51.338Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 5.
+[NX Daemon Server] - 2024-06-01T15:11:14.245Z - [WATCHER]: tsconfig.base.json was modified
+[NX Daemon Server] - 2024-06-01T15:11:14.245Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-06-01T15:11:14.246Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-06-01T15:11:14.246Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-06-01T15:11:14.246Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:11:14.246Z - Time taken for 'changed-projects' 0.0666661262512207ms
+[NX Daemon Server] - 2024-06-01T15:11:14.349Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:11:14.349Z - [REQUEST]: tsconfig.base.json
+[NX Daemon Server] - 2024-06-01T15:11:14.349Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:11:14.377Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.2336249351501465ms
+[NX Daemon Server] - 2024-06-01T15:11:14.748Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:11:14.750Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:11:14.751Z - Time taken for 'total for creating and serializing project graph' 2.106750011444092ms
+[NX Daemon Server] - 2024-06-01T15:11:14.756Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:11:14.756Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 6.
+[NX Daemon Server] - 2024-06-01T15:11:33.667Z - [WATCHER]: packages/themes/tsconfig.json was modified
+[NX Daemon Server] - 2024-06-01T15:11:33.667Z - [REQUEST]: Responding to the client. File watch changed
+[NX Daemon Server] - 2024-06-01T15:11:33.667Z - Done responding to the client File watch changed
+[NX Daemon Server] - 2024-06-01T15:11:33.667Z - Handled FILE-WATCH-CHANGED. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-06-01T15:11:33.667Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:11:33.667Z - Time taken for 'changed-projects' 0.022749900817871094ms
+[NX Daemon Server] - 2024-06-01T15:11:33.771Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:11:33.771Z - [REQUEST]: packages/themes/tsconfig.json
+[NX Daemon Server] - 2024-06-01T15:11:33.771Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:11:33.806Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.6085422039031982ms
+[NX Daemon Server] - 2024-06-01T15:11:34.169Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:11:34.172Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:11:34.174Z - Time taken for 'total for creating and serializing project graph' 2.7610409259796143ms
+[NX Daemon Server] - 2024-06-01T15:11:34.178Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:11:34.178Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 3. Response time: 6.
+[NX Daemon Server] - 2024-06-01T15:11:43.419Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:11:43.425Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-01T15:12:04.771Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:12:04.772Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-06-01T15:12:04.772Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:12:04.772Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:12:04.774Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:12:04.775Z - Time taken for 'total for creating and serializing project graph' 1.4200420379638672ms
+[NX Daemon Server] - 2024-06-01T15:12:04.777Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:12:04.777Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:12:04.783Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-01T15:12:07.201Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:12:07.202Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-01T15:12:07.202Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:12:07.203Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:12:07.205Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:12:07.206Z - Time taken for 'total for creating and serializing project graph' 1.806208848953247ms
+[NX Daemon Server] - 2024-06-01T15:12:07.208Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:12:07.208Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:12:07.214Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-01T15:12:22.258Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:12:22.258Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-01T15:12:22.258Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-06-01T15:12:22.259Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-06-01T15:12:22.261Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-06-01T15:12:22.262Z - Time taken for 'total for creating and serializing project graph' 1.273749828338623ms
+[NX Daemon Server] - 2024-06-01T15:12:22.264Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-06-01T15:12:22.264Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 2. Response time: 3.
+[NX Daemon Server] - 2024-06-01T15:12:22.297Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-06-01T15:12:22.297Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-06-01T15:12:22.297Z - Handled HASH_TASKS. Handling time: 10. Response time: 0.
+[NX Daemon Server] - 2024-06-01T15:12:22.298Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.888958215713501ms
+[NX Daemon Server] - 2024-06-01T15:12:24.329Z - [WATCHER]: 0 file(s) created or restored, 0 file(s) modified, 16 file(s) deleted
+[NX Daemon Server] - 2024-06-01T15:12:24.329Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:12:24.432Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:12:24.432Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:12:24.432Z - [REQUEST]: packages/themes/dist/index.d.ts,packages/themes/dist/variables/colors/static/light.d.ts,packages/themes/dist/classes/typography.d.ts,packages/themes/dist/variables/box.d.ts,packages/themes/dist/variables/index.d.ts,packages/themes/dist/classes/index.d.ts,packages/themes/dist/variables/colors/static/index.d.ts,packages/themes/dist/index.cjs.map,packages/themes/dist/index.js,packages/themes/dist/variables/colors/scale.d.ts,packages/themes/dist/variables/typography.d.ts,packages/themes/dist/variables/colors/index.d.ts,packages/themes/dist/themes.css,packages/themes/dist/variables/colors/static/dark.d.ts,packages/themes/dist/index.cjs,packages/themes/dist/index.js.map
+[NX Daemon Server] - 2024-06-01T15:12:24.461Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.4018750190734863ms
+[NX Daemon Server] - 2024-06-01T15:12:25.033Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:12:25.034Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-06-01T15:12:25.136Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:12:25.136Z - [REQUEST]: packages/themes/dist/index.cjs,packages/themes/dist/index.js,packages/themes/dist/index.js.map,packages/themes/dist/index.cjs.map
+[NX Daemon Server] - 2024-06-01T15:12:25.136Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:12:25.158Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9115829467773438ms
+[NX Daemon Server] - 2024-06-01T15:12:26.295Z - [WATCHER]: 11 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-06-01T15:12:26.295Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:12:26.398Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:12:26.398Z - [REQUEST]: packages/themes/dist/variables/colors/static/dark.d.ts,packages/themes/dist/variables/typography.d.ts,packages/themes/dist/variables/colors/scale.d.ts,packages/themes/dist/classes/typography.d.ts,packages/themes/dist/classes/index.d.ts,packages/themes/dist/variables/colors/static/light.d.ts,packages/themes/dist/variables/colors/static/index.d.ts,packages/themes/dist/index.d.ts,packages/themes/dist/variables/index.d.ts,packages/themes/dist/variables/colors/index.d.ts,packages/themes/dist/variables/box.d.ts
+[NX Daemon Server] - 2024-06-01T15:12:26.398Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:12:26.420Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9392499923706055ms
+[NX Daemon Server] - 2024-06-01T15:12:26.784Z - [REQUEST]: Responding to the client. recordOutputsHash
+[NX Daemon Server] - 2024-06-01T15:12:26.784Z - Done responding to the client recordOutputsHash
+[NX Daemon Server] - 2024-06-01T15:12:26.784Z - Handled RECORD_OUTPUTS_HASH. Handling time: 2. Response time: 0.
+[NX Daemon Server] - 2024-06-01T15:12:26.813Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-06-01T15:12:26.819Z - [WATCHER]: 16 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-06-01T15:12:26.820Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:12:26.923Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:12:26.923Z - [REQUEST]: packages/themes/dist/index.cjs.map,packages/themes/dist/variables/colors/static/light.d.ts,packages/themes/dist/variables/typography.d.ts,packages/themes/dist/variables/index.d.ts,packages/themes/dist/variables/colors/static/dark.d.ts,packages/themes/dist/index.js.map,packages/themes/dist/classes/index.d.ts,packages/themes/dist/variables/box.d.ts,packages/themes/dist/index.cjs,packages/themes/dist/variables/colors/static/index.d.ts,packages/themes/dist/themes.css,packages/themes/dist/variables/colors/scale.d.ts,packages/themes/dist/classes/typography.d.ts,packages/themes/dist/variables/colors/index.d.ts,packages/themes/dist/index.js,packages/themes/dist/index.d.ts
+[NX Daemon Server] - 2024-06-01T15:12:26.923Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:12:26.945Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9739999771118164ms

@@ -14,12 +14,20 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".gitignore",
-        "hash": "5403484524555424706"
-      },
-      {
         "file": "README.md",
         "hash": "9257971808920172890"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "15322884351288772532"
+      },
+      {
+        "file": "package.json",
+        "hash": "9635834097890564332"
+      },
+      {
+        "file": ".pnp.loader.mjs",
+        "hash": "6680845508487648734"
       },
       {
         "file": ".pnp.cjs",
@@ -30,10 +38,6 @@
         "hash": "3541002500021540510"
       },
       {
-        "file": "package.json",
-        "hash": "9635834097890564332"
-      },
-      {
         "file": "yarn.lock",
         "hash": "10888408683867489492"
       },
@@ -42,88 +46,11 @@
         "hash": "14924708307150832443"
       },
       {
-        "file": ".pnp.loader.mjs",
-        "hash": "6680845508487648734"
+        "file": ".gitignore",
+        "hash": "5403484524555424706"
       }
     ],
     "projectFileMap": {
-      "test": [
-        {
-          "file": "services/test/.gitignore",
-          "hash": "5403484524555424706"
-        },
-        {
-          "file": "services/test/README.md",
-          "hash": "17911282315018038361"
-        },
-        {
-          "file": "services/test/package.json",
-          "hash": "10339172006030515931",
-          "deps": [
-            "@fastcampus/themes"
-          ]
-        },
-        {
-          "file": "services/test/public/favicon.ico",
-          "hash": "2949791817221603359"
-        },
-        {
-          "file": "services/test/public/index.html",
-          "hash": "6096530429767281129"
-        },
-        {
-          "file": "services/test/public/logo192.png",
-          "hash": "7585273181698778288"
-        },
-        {
-          "file": "services/test/public/logo512.png",
-          "hash": "9339365414554387981"
-        },
-        {
-          "file": "services/test/public/manifest.json",
-          "hash": "1447645250373428393"
-        },
-        {
-          "file": "services/test/public/robots.txt",
-          "hash": "2790380794362165217"
-        },
-        {
-          "file": "services/test/src/App.css",
-          "hash": "3472201094699472689"
-        },
-        {
-          "file": "services/test/src/App.tsx",
-          "hash": "14422575562222082353"
-        },
-        {
-          "file": "services/test/src/index.css",
-          "hash": "14056909652331273425"
-        },
-        {
-          "file": "services/test/src/index.tsx",
-          "hash": "328308363985633556"
-        },
-        {
-          "file": "services/test/src/logo.svg",
-          "hash": "5137778160416929466"
-        },
-        {
-          "file": "services/test/src/react-app-env.d.ts",
-          "hash": "3195158367843515590"
-        },
-        {
-          "file": "services/test/src/reportWebVitals.ts",
-          "hash": "4905365886999342103"
-        },
-        {
-          "file": "services/test/src/setupTests.ts",
-          "hash": "16903885983588411080"
-        },
-        {
-          "file": "services/test/tsconfig.json",
-          "hash": "3664978063588679595"
-        }
-      ],
       "@fastcampus/themes": [
         {
           "file": "packages/themes/build.js",
@@ -183,7 +110,15 @@
         },
         {
           "file": "packages/themes/tsconfig.json",
-          "hash": "1179432164812416385"
+          "hash": "10248009443664204963"
+        },
+        {
+          "file": "packages/themes/dist/index.cjs",
+          "hash": "5607138237691230358"
+        },
+        {
+          "file": "packages/themes/dist/index.js.map",
+          "hash": "2974999675141567088"
         },
         {
           "file": "packages/themes/dist/index.js",
@@ -194,40 +129,20 @@
           "hash": "2899669757664168893"
         },
         {
-          "file": "packages/themes/dist/index.js.map",
-          "hash": "2974999675141567088"
-        },
-        {
-          "file": "packages/themes/dist/index.cjs",
-          "hash": "5607138237691230358"
+          "file": "packages/themes/dist/classes/typography.d.ts",
+          "hash": "5470490315358347772"
         },
         {
           "file": "packages/themes/dist/variables/colors/static/index.d.ts",
           "hash": "17639848047638776056"
         },
         {
-          "file": "packages/themes/dist/variables/colors/index.d.ts",
-          "hash": "16067044052561609752"
+          "file": "packages/themes/dist/variables/colors/static/light.d.ts",
+          "hash": "17734666164896003080"
         },
         {
-          "file": "packages/themes/dist/classes/typography.d.ts",
-          "hash": "5470490315358347772"
-        },
-        {
-          "file": "packages/themes/dist/variables/typography.d.ts",
-          "hash": "10652839459202001278"
-        },
-        {
-          "file": "packages/themes/dist/variables/box.d.ts",
-          "hash": "842480593365453807"
-        },
-        {
-          "file": "packages/themes/dist/classes/index.d.ts",
-          "hash": "14874153686921477232"
-        },
-        {
-          "file": "packages/themes/dist/variables/index.d.ts",
-          "hash": "17288868138055620940"
+          "file": "packages/themes/dist/variables/colors/static/dark.d.ts",
+          "hash": "14900681379405007657"
         },
         {
           "file": "packages/themes/dist/index.d.ts",
@@ -238,12 +153,24 @@
           "hash": "10829171702683546749"
         },
         {
-          "file": "packages/themes/dist/variables/colors/static/light.d.ts",
-          "hash": "17734666164896003080"
+          "file": "packages/themes/dist/variables/colors/index.d.ts",
+          "hash": "16067044052561609752"
         },
         {
-          "file": "packages/themes/dist/variables/colors/static/dark.d.ts",
-          "hash": "14900681379405007657"
+          "file": "packages/themes/dist/variables/box.d.ts",
+          "hash": "842480593365453807"
+        },
+        {
+          "file": "packages/themes/dist/variables/index.d.ts",
+          "hash": "17288868138055620940"
+        },
+        {
+          "file": "packages/themes/dist/classes/index.d.ts",
+          "hash": "14874153686921477232"
+        },
+        {
+          "file": "packages/themes/dist/variables/typography.d.ts",
+          "hash": "10652839459202001278"
         },
         {
           "file": "packages/themes/dist/themes.css",
