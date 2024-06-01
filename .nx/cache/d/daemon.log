@@ -225,3 +225,124 @@
 [NX Daemon Server] - 2024-06-01T15:12:26.923Z - [REQUEST]: packages/themes/dist/index.cjs.map,packages/themes/dist/variables/colors/static/light.d.ts,packages/themes/dist/variables/typography.d.ts,packages/themes/dist/variables/index.d.ts,packages/themes/dist/variables/colors/static/dark.d.ts,packages/themes/dist/index.js.map,packages/themes/dist/classes/index.d.ts,packages/themes/dist/variables/box.d.ts,packages/themes/dist/index.cjs,packages/themes/dist/variables/colors/static/index.d.ts,packages/themes/dist/themes.css,packages/themes/dist/variables/colors/scale.d.ts,packages/themes/dist/classes/typography.d.ts,packages/themes/dist/variables/colors/index.d.ts,packages/themes/dist/index.js,packages/themes/dist/index.d.ts
 [NX Daemon Server] - 2024-06-01T15:12:26.923Z - [REQUEST]: 
 [NX Daemon Server] - 2024-06-01T15:12:26.945Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9739999771118164ms
+[NX Daemon Server] - 2024-06-01T15:14:02.475Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:02.475Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:02.678Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:02.678Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:02.678Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:02.690Z - Error detected when creating a project graph: CommaExpected in /Users/bong/github/fastcampus-design-system/package.json at 15:5
+  13 |   "devDependencies": {
+  14 |     "nx": "^19.1.0"
+> 15 |     "typescript": "^5.2.2",
+     |     ^^^^^^^^^^^^
+  16 | "@typescript-eslint/eslint-plugin": "*6.5.8",
+  17 | "@typescript-eslint/parser": "^6.5.0",
+  18 | "eslint": "^8.48.0",
+
+[NX Daemon Server] - 2024-06-01T15:14:02.691Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.5798749923706055ms
+[NX Daemon Server] - 2024-06-01T15:14:04.885Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:04.885Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:05.288Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:05.288Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:05.288Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:05.310Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9649169445037842ms
+[NX Daemon Server] - 2024-06-01T15:14:05.666Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:05.666Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:06.473Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:06.473Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:06.473Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:06.513Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 3.3411660194396973ms
+[NX Daemon Server] - 2024-06-01T15:14:06.852Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:06.852Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:08.462Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:08.462Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:08.462Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:08.498Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 3.591207981109619ms
+[NX Daemon Server] - 2024-06-01T15:14:13.288Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:13.289Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:16.492Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:16.492Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:16.492Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:16.524Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 3.3066251277923584ms
+[NX Daemon Server] - 2024-06-01T15:14:28.335Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:28.335Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:28.907Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:28.907Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:29.221Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:29.221Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:29.449Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:29.449Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:34.741Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:34.741Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:34.741Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:34.778Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.7507500648498535ms
+[NX Daemon Server] - 2024-06-01T15:14:48.666Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:48.666Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:49.078Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:49.078Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:49.374Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:49.374Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:49.625Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:49.625Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:50.199Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:50.199Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:51.700Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:14:51.700Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:14:55.074Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:14:55.074Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:14:55.074Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:14:55.120Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 3.8561670780181885ms
+[NX Daemon Server] - 2024-06-01T15:15:00.215Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:00.215Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:00.860Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:00.860Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:01.237Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:01.237Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:05.019Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:05.021Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:06.531Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:06.531Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:06.618Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:15:06.618Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:15:06.618Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:15:06.651Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.4589581489562988ms
+[NX Daemon Server] - 2024-06-01T15:15:06.940Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:06.940Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:07.133Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:07.133Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:07.360Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:07.360Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:13.349Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:15:13.350Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:15:13.350Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:15:13.388Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 3.698124885559082ms
+[NX Daemon Server] - 2024-06-01T15:15:26.918Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:26.918Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:33.323Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:15:33.323Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:15:33.323Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:15:33.350Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 1.511667013168335ms
+[NX Daemon Server] - 2024-06-01T15:15:33.773Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:33.774Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:34.097Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:34.097Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:34.278Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:15:34.279Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:15:40.176Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:15:40.177Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:15:40.177Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:15:40.200Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 0.9658749103546143ms
+[NX Daemon Server] - 2024-06-01T15:16:11.848Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:16:11.849Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:16:18.254Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-06-01T15:16:18.254Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-06-01T15:16:18.254Z - [REQUEST]: 
+[NX Daemon Server] - 2024-06-01T15:16:18.293Z - Time taken for 'Load Nx Plugin: /Users/bong/github/fastcampus-design-system/.yarn/unplugged/nx-virtual-6e3895ee35/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 2.2780420780181885ms
+[NX Daemon Server] - 2024-06-01T15:16:32.436Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:16:32.436Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:16:35.910Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-06-01T15:16:35.910Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:16:37.748Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-06-01T15:16:37.749Z - [WATCHER]: Stopping the watcher for /Users/bong/github/fastcampus-design-system (sources)
+[NX Daemon Server] - 2024-06-01T15:16:37.749Z - [WATCHER]: Stopping the watcher for /Users/bong/github/fastcampus-design-system (outputs)
+[NX Daemon Server] - 2024-06-01T15:16:37.750Z - Server stopped because: "Lock file changed"

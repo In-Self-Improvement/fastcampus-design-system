@@ -1,0 +1,66 @@
+{
+  "extends": [
+    "airbnb-typescript",
+    "plugin:prettier/recommended",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "max-depth": ["warn", 2],
+    "prettier/prettier": ["error"],
+    "react/jsx-filename-extension": [
+      "error",
+      { "extensions": [".tsx", ".jsx", ".js", "ts"] }
+    ],
+    "react/function-component-definition": [
+      "error",
+      { "namedComponents": "arrow-function" }
+    ],
+    "react/react-in-jsx-scope": "off",
+    "max-lines": ["error", 250],
+    "comma-dangle": ["error", "always-multiline"],
+    "@typescript-eslint/no-unused-vars": "off",
+    "react/prop-types": "off",
+    "react/jsx-props-no-spreading": "off",
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "@typescript-eslint/no-explicit-any": "off"
+  },
+  "settings": {
+    "import/extensions": [".js", ".mjs", ".jsx", ".ts", ".mts", ".tsx"],
+    "import/resolver": {
+      "alias": {
+        "map": [["~", "./src/"]],
+        "extensions": [".ts", ".js", ".jsx", ".tsx", ".svg"]
+      }
+    },
+    "react": {
+      "version": "detect"
+    }
+  },
+  "parserOptions": {
+    "project": "./tsconfig.eslint.json"
+  },
+  "ignorePatterns": [
+    "tailwind.config.js",
+    "jest.config.js",
+    "craco.config.js",
+    "postcss.config.js",
+    "fileMock.js",
+    "build/",
+    "babel.config.js"
+  ],
+  "plugins": ["react", "import"],
+  "env": {
+    "browser": true
+  },
+  "root": true
+}
