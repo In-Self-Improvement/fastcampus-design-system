@@ -84,3 +84,6 @@
 [NX Daemon Server] - 2024-05-26T01:01:22.226Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 3.
 [NX Daemon Server] - 2024-05-26T01:06:36.237Z - Closed a connection. Number of open connections: 1
 [NX Daemon Server] - 2024-05-26T01:06:36.243Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-05-26T04:08:47.998Z - [WATCHER]: Stopping the watcher for /Users/bong/github/fastcampus-design-system (sources)
+[NX Daemon Server] - 2024-05-26T04:08:47.998Z - [WATCHER]: Stopping the watcher for /Users/bong/github/fastcampus-design-system (outputs)
+[NX Daemon Server] - 2024-05-26T04:08:47.998Z - Server stopped because: "10800000ms of inactivity"
