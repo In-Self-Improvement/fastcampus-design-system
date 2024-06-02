@@ -1,0 +1,21 @@
+(node:71600) ExperimentalWarning: Import assertions are not a stable feature of the JavaScript language. Avoid relying on their current behavior and syntax as those might change in a future version of Node.js.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:71600) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
+node:internal/errors:496
+    ErrorCaptureStackTrace(err);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '/Users/bong/github/fastcampus-design-system/packages/themes/dist/index.js' imported from /Users/bong/github/fastcampus-design-system/packages/themes/scripts/build-css-module.js
+[90m    at new NodeError (node:internal/errors:405:5)[39m
+[90m    at finalizeResolution (node:internal/modules/esm/resolve:324:11)[39m
+[90m    at moduleResolve (node:internal/modules/esm/resolve:943:10)[39m
+[90m    at defaultResolve (node:internal/modules/esm/resolve:1129:11)[39m
+[90m    at nextResolve (node:internal/modules/esm/loader:163:28)[39m
+[90m    at ESMLoader.resolve (node:internal/modules/esm/loader:835:30)[39m
+[90m    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)[39m
+[90m    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:77:40)[39m
+[90m    at link (node:internal/modules/esm/module_job:76:36)[39m {
+  code: [32m'ERR_MODULE_NOT_FOUND'[39m
+}
+
+Node.js v18.17.1

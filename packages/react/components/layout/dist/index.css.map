@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["vanilla-extract-css-ns:src/block.css.ts.vanilla.css?source=LncxajhqcjAgewogIHdpZHRoOiAxMDBweDsKICBoZWlnaHQ6IDEwMHB4OwogIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWdyYXktNTAwKTsKfQ=="],
+  "sourcesContent": [".w1j8jr0 {\n  width: 100px;\n  height: 100px;\n  background-color: var(--gray-500);\n}"],
+  "mappings": "AAAA,SACE,YACA,aACA",
+  "names": []
+}

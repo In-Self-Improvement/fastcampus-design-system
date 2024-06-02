@@ -1,0 +1,13 @@
+(node:62875) ExperimentalWarning: Import assertions are not a stable feature of the JavaScript language. Avoid relying on their current behavior and syntax as those might change in a future version of Node.js.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:62875) ExperimentalWarning: Importing JSON modules is an experimental feature and might change at any time
+/Users/bong/github/fastcampus-design-system/packages/esbuild-config/index.js:26
+    build.build({
+          ^
+
+TypeError: build.build is not a function
+    at run (/Users/bong/github/fastcampus-design-system/packages/esbuild-config/index.js:26:11)
+    at [90mfile:///Users/bong/github/fastcampus-design-system/packages/themes/[39mbuild.js:4:1
+[90m    at ModuleJob.run (node:internal/modules/esm/module_job:194:25)[39m
+
+Node.js v18.17.1

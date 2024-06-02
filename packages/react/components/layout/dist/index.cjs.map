@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.ts", "../src/block.css.ts", "../src/Block.tsx"],
+  "sourcesContent": ["export { Block } from './Block';\n", "import 'src/block.css.ts.vanilla.css?source=LncxajhqcjAgewogIHdpZHRoOiAxMDBweDsKICBoZWlnaHQ6IDEwMHB4OwogIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWdyYXktNTAwKTsKfQ==';\nexport var blockStyle = 'w1j8jr0';", "import { blockStyle } from './block.css';\n\nexport const Block = () => {\n  return <div className={blockStyle}>\uC548\uB155\uD558\uC138\uC694.</div>;\n};\n"],
+  "mappings": "yaAAA,IAAAA,EAAA,GAAAC,EAAAD,EAAA,WAAAE,IAAA,eAAAC,EAAAH,GCCO,IAAII,EAAa,UCEf,IAAAC,EAAA,6BADIC,EAAQ,OACZ,OAAC,OAAI,UAAWC,EAAY,2CAAM",
+  "names": ["src_exports", "__export", "Block", "__toCommonJS", "blockStyle", "import_jsx_runtime", "Block", "blockStyle"]
+}

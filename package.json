@@ -25,5 +25,8 @@
     "nx": "^19.1.0",
     "prettier": "^3.2.5",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@fastcampus/themes": "workspace:^"
   }
 }
